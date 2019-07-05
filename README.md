@@ -27,4 +27,4 @@
     - linux : (https://www.wikihow.com/Install-JavaFX-on-Ubuntu-Linux)
   - Netbeans / Eclipse
 
-`` *For more Details Read report.pdf ``
+`` *For more Details Refer report.pdf ``
